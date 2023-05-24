@@ -21,3 +21,7 @@ Deep Learning course at HSE DPO
    - [Custom weight decay](https://raberrytv.wordpress.com/2017/10/29/pytorch-weight-decay-made-easy/)
    - [Inverted dropout](https://www.coursera.org/lecture/deep-neural-network/dropout-regularization-eM33A)
    - [Weight initialization](https://www.deeplearningwizard.com/deep_learning/boosting_models_pytorch/weight_initialization_activation_functions/)
+#### CV
+04. Convolution neural network
+   - [Convolution in CNN explained](https://www.youtube.com/watch?v=KTB_OFoAQcc)
+   - [Dilated convolutions](https://www.inference.vc/dilated-convolutions-and-kronecker-factorisation/)
