@@ -25,3 +25,7 @@ Deep Learning course at HSE DPO
 04. Convolutional neural network
    - [Convolution in CNN explained](https://www.youtube.com/watch?v=KTB_OFoAQcc)
    - [Dilated convolutions](https://www.inference.vc/dilated-convolutions-and-kronecker-factorisation/)
+05. Transfer learning
+   - [ResNet](https://towardsdatascience.com/understanding-and-visualizing-resnets-442284831be8)
+   - [Метрики в задачах классификации](https://habr.com/ru/company/ods/blog/328372/)
+   - [A Comprehensive Introduction to Different Types of Convolutions in Deep Learning](https://towardsdatascience.com/a-comprehensive-introduction-to-different-types-of-convolutions-in-deep-learning-669281e58215)
