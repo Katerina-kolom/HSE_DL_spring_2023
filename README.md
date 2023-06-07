@@ -29,3 +29,8 @@ Deep Learning course at HSE DPO
    - [ResNet](https://towardsdatascience.com/understanding-and-visualizing-resnets-442284831be8)
    - [Метрики в задачах классификации](https://habr.com/ru/company/ods/blog/328372/)
    - [A Comprehensive Introduction to Different Types of Convolutions](https://towardsdatascience.com/a-comprehensive-introduction-to-different-types-of-convolutions-in-deep-learning-669281e58215)
+06. Детекция, сегментация, перенос стиля. Автокодировщики
+   - [Что выучивает сеть?](https://towardsdatascience.com/understanding-your-convolution-network-with-visualizations-a4883441533b)
+   - [Перенос стиля](https://towardsdatascience.com/neural-style-transfer-applications-data-augmentation-43d1dc1aeecc) 
+   - [Denoising Autoencoders](https://medium.com/@garimanishad/reconstruct-corrupted-data-using-denoising-autoencoder-python-code-aeaff4b0958e)
+   - [Автоэнкодеры](https://habr.com/ru/post/331382/)
