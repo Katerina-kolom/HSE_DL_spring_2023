@@ -34,3 +34,4 @@ Deep Learning course at HSE DPO
    - [Перенос стиля](https://towardsdatascience.com/neural-style-transfer-applications-data-augmentation-43d1dc1aeecc) 
    - [Denoising Autoencoders](https://medium.com/@garimanishad/reconstruct-corrupted-data-using-denoising-autoencoder-python-code-aeaff4b0958e)
    - [Автоэнкодеры](https://habr.com/ru/post/331382/)
+07. VAE. GANs
