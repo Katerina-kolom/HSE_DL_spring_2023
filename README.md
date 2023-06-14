@@ -35,3 +35,8 @@ Deep Learning course at HSE DPO
    - [Denoising Autoencoders](https://medium.com/@garimanishad/reconstruct-corrupted-data-using-denoising-autoencoder-python-code-aeaff4b0958e)
    - [Автоэнкодеры](https://habr.com/ru/post/331382/)
 07. VAE. GANs
+   - [StyleGAN3](https://nvlabs.github.io/stylegan3/)
+   - [VAE ultimate guide & intuition](https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73)
+   - [GAN explained](https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans/lecture/gIAJ0/putting-it-all-together)
+   
+#### NLP
