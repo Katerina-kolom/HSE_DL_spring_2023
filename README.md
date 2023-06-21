@@ -40,3 +40,8 @@ Deep Learning course at HSE DPO
    - [GAN explained](https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans/lecture/gIAJ0/putting-it-all-together)
    
 #### NLP
+08. Intro to NLP, Word2Vec, Enbeddings
+   - [MLE explained](https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1)
+   - [NLP guide от Lena Voita](https://lena-voita.github.io/nlp_course.html)
+   - [Word2Vec tutorial с математикой и кодом](https://github.com/Yorko/mlcourse.ai/blob/main/jupyter_russian/tutorials/word2vec_demonzheg.ipynb)
+   - [spaCy vs NLTK vs gensim](https://www.kaggle.com/faressayah/nlp-with-spacy-nltk-gensim)
