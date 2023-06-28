@@ -45,3 +45,7 @@ Deep Learning course at HSE DPO
    - [NLP guide от Lena Voita](https://lena-voita.github.io/nlp_course.html)
    - [Word2Vec tutorial с математикой и кодом](https://github.com/Yorko/mlcourse.ai/blob/main/jupyter_russian/tutorials/word2vec_demonzheg.ipynb)
    - [spaCy vs NLTK vs gensim](https://www.kaggle.com/faressayah/nlp-with-spacy-nltk-gensim)
+09. RNNs. LSTM, GRU
+   - Stanford CS224N [all lectures](http://web.stanford.edu/class/cs224n/slides/). [Slides on RNN](http://web.stanford.edu/class/cs224n/slides/cs224n-2019-lecture07-fancy-rnn.pdf)
+   - [NLTK book](https://www.nltk.org/book/)
+   - [Deep RNNs](https://www.coursera.org/lecture/nlp-sequence-models/deep-rnns-ehs0S)
