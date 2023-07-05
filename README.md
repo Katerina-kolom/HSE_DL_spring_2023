@@ -49,3 +49,8 @@ Deep Learning course at HSE DPO
    - Stanford CS224N [all lectures](http://web.stanford.edu/class/cs224n/slides/). [Slides on RNN](http://web.stanford.edu/class/cs224n/slides/cs224n-2019-lecture07-fancy-rnn.pdf)
    - [NLTK book](https://www.nltk.org/book/)
    - [Deep RNNs](https://www.coursera.org/lecture/nlp-sequence-models/deep-rnns-ehs0S)
+10. Seq2seq. Attention. ELMO. Self-Attention. Transformer. BERT.
+   - [BERT, ELMO explained](https://jalammar.github.io/illustrated-bert/)
+   - [Transformers explained](https://jalammar.github.io/illustrated-transformer/)
+   - [Why BERT is called bidirectional?](https://medium.com/dissecting-bert/dissecting-bert-part2-335ff2ed9c73)
+   - [Harvard transformer implementation](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
